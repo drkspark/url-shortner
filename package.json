@@ -1,0 +1,26 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "Url shortner service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drkspark/url-shortner.git"
+  },
+  "keywords": [
+    "url-shortner",
+    "js",
+    "express",
+    "node-js",
+    "nodejs"
+  ],
+  "author": "drkspark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drkspark/url-shortner/issues"
+  },
+  "homepage": "https://github.com/drkspark/url-shortner#readme"
+}
